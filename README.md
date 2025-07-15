@@ -16,4 +16,4 @@ Day 7: Mission Skill CRUD and Mission Listing User Side
 
 Day 8: Mission Apply, Mission Application CRUD (Apply mission List through user)
 
-Day 9: Update Profile
+Day 9: My Profile Page and Deployment
